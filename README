@@ -1,0 +1,5 @@
+Compiler for class COMP6421 concordia Master in Applied Computer Science.
+Winter 2018.
+First commit is the Lexical Analyzer, see assignement number 1 for more information.
+The grammar was not modified. When in doubt we took always the second possibility in the examples fro the grammar.
+
